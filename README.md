@@ -1,2 +1,2 @@
-# CS372-Intro-to-Networking
+# CS372 Intro to Networking
 Introduction to Networking
